@@ -5,7 +5,7 @@
         <div class="header-content">
           <div class="logo-section">
             <img :src="logoVantaDrop" alt="VantaDrop" class="logo-vantadrop">
-            <p class="subtitle">test"Modifier une ligne dans le projet Vue.js"</p>
+            <p class="subtitle">test"</p>
           </div>
           
           <!-- Bouton Connexion -->
