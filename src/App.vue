@@ -5,7 +5,7 @@
         <div class="header-content">
           <div class="logo-section">
             <img :src="logoVantaDrop" alt="VantaDrop" class="logo-vantadrop">
-            <p class="subtitle">Plateforme Premium de Case Opening</p>
+            <p class="subtitle">test"Modifier une ligne dans le projet Vue.js"</p>
           </div>
           
           <!-- Bouton Connexion -->
